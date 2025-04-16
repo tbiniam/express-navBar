@@ -14,4 +14,4 @@ Typesetting
 Four Algorithms
 
 
->>>>>>> 3ae85d1 (final expreee-navBar submission)
+3ae85d1 (final expreee-navBar submission)

@@ -1,8 +1,6 @@
-<<<<<<< HEAD
+
 # express-navBar
 =======
-
-express-navBar
 
 A modern single-page web application showcasing a navigation bar with smooth animations and a dark theme.
 
@@ -14,4 +12,6 @@ Three route links:
 Climate Crisis
 Typesetting
 Four Algorithms
+
+
 >>>>>>> 3ae85d1 (final expreee-navBar submission)

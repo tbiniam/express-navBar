@@ -8,12 +8,12 @@ const PORT = process.env.PORT || 3000;
 // add any necessary code you'd want to!
 
 //root
-app.get('/', (req, res) => {
-    // your nav bar is on index.html
-    res.sendFile(path.join(__dirname, 'public', 'index.html'));
-})
+// app.get('/', (req, res) => {
+//     // your nav bar is on index.html
+//     res.sendFile(path.join(__dirname, 'public', 'index.html'));
+// })
 
-app.use(express.static(path.join(__dirname, 'public', 'styles.css')));
+app.use(express.static(path.join(__dirname, 'public')));
 
 // Route for Climate Crisis
 app.get('/climate-crisis', (req, res) => {
